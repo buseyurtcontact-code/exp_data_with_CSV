@@ -1,0 +1,153 @@
+siparis_id,tarih,sehir,kategori,urun,adet,birim_fiyat,odeme_yontemi,musteri_puani,kargo_gun
+S1001,2026-01-01,Ankara,Kitap,Roman,1,180,Kredi Kartı,5,2
+S1002,2026-01-03,İstanbul,Elektronik,Powerbank,1,660,Kredi Kartı,4,5
+S1003,2026-01-04,İstanbul,Ev & Yaşam,Kupa,1,145,Havale,3,5
+S1004,2026-01-05,Ankara,Elektronik,Klavye,2,1305,Nakit,1,2
+S1005,2026-01-06,İstanbul,Kitap,Çocuk Kitabı,4,135,Kredi Kartı,5,5
+S1006,2026-01-07,İstanbul,Ev & Yaşam,Termos,4,495,Havale,3,4
+S1007,2026-01-07,İstanbul,Kırtasiye,Defter,1,65,Kredi Kartı,2,1
+S1008,2026-01-07,Ankara,Elektronik,Powerbank,1,690,Nakit,4,2
+S1009,2026-01-09,İstanbul,Kitap,Çocuk Kitabı,1,135,Nakit,4,3
+S1010,2026-01-10,İstanbul,Elektronik,Mouse,1,460,,1,4
+S1011,2026-01-11,Ankara,Kitap,Çocuk Kitabı,2,135,Kredi Kartı,5,2
+S1012,2026-01-11,Trabzon,Kitap,Roman,1,190,Nakit,5,5
+S1011,2026-01-11,Ankara,Kitap,Çocuk Kitabı,2,135,Kredi Kartı,5,2
+S1013,2026-01-13,İstanbul,Kırtasiye,Defter,1,55,Nakit,4,3
+S1014,2026-01-15,Ankara,Kırtasiye,Defter,2,65,Kredi Kartı,3,3
+S1015,2026-01-17,Ankara,Elektronik,Kulaklık,3,890,Kredi Kartı,3,1
+S1016,2026-01-19,Antalya,Kitap,Çocuk Kitabı,2,135,Kredi Kartı,4,2
+S1017,2026-01-20,Bursa,Elektronik,Mouse,2,480,Kredi Kartı,4,2
+S1018,2026-01-20,Antalya,Kırtasiye,Kalem Seti,3,120,Kredi Kartı,4,4
+S1019,2026-01-24,Ankara,Ev & Yaşam,Masa Lambası,1,890,Nakit,,6
+S1020,2026-01-24,İzmir,Kırtasiye,Ajanda,2,235,Kapıda Ödeme,3,3
+S1021,2026-01-24,İstanbul,Elektronik,Klavye,2,1195,Kredi Kartı,,5
+S1022,2026-01-26,Ankara,Elektronik,Kulaklık,2,845,Kredi Kartı,4,2
+S1023,2026-01-27,İzmir,Elektronik,Mouse,4,415,Kapıda Ödeme,4,2
+S1024,2026-01-27,İstanbul,Ev & Yaşam,Masa Lambası,5,960,Kapıda Ödeme,3,1
+S1025,2026-01-28,İstanbul,Elektronik,Mouse,3,415,Kredi Kartı,,1
+S1026,2026-01-28,İstanbul,Ev & Yaşam,Masa Lambası,3,985,Havale,5,2
+S1027,2026-01-30,Antalya,Elektronik,Klavye,1,1305,Kredi Kartı,4,5
+S1028,2026-01-30,İstanbul,Kitap,Roman,1,180,Kredi Kartı,2,2
+S1029,2026-02-01,İzmir,Ev & Yaşam,Kupa,2,150,Kredi Kartı,5,3
+S1030,2026-02-02,İstanbul,Elektronik,Klavye,3,1135,Kredi Kartı,1,4
+S1031,2026-02-03,İstanbul,Ev & Yaşam,Masa Lambası,2,910,Kapıda Ödeme,4,4
+S1032,2026-02-06,Bursa,Elektronik,Powerbank,4,630,Nakit,5,4
+S1033,2026-02-06,İstanbul,Elektronik,Kulaklık,1,890,Kredi Kartı,5,6
+S1034,2026-02-06,İzmir,Elektronik,Klavye,1,1125,Kredi Kartı,1,3
+S1035,2026-02-06,Ankara,Elektronik,Klavye,2,1110,Nakit,5,5
+S1036,2026-02-07,Ankara,Ev & Yaşam,Masa Lambası,1,865,Kredi Kartı,2,3
+S1037,2026-02-11,İstanbul,Ev & Yaşam,Kupa,2,160,Nakit,4,4
+S1038,2026-02-11,İzmir,Kitap,Çocuk Kitabı,2,125,Havale,5,3
+S1039,2026-02-11,İstanbul,Kırtasiye,Kalem Seti,4,120,Nakit,5,5
+S1040,2026-02-14,Bursa,Kırtasiye,Kalem Seti,4,115,Kredi Kartı,2,5
+S1041,2026-02-14,İzmir,Elektronik,Klavye,2,1280,Nakit,,4
+S1042,2026-02-15,Antalya,Elektronik,Kulaklık,1,790,Nakit,3,4
+S1043,2026-02-17,İstanbul,Kitap,Kişisel Gelişim,5,205,Nakit,,3
+S1044,2026-02-24,Bursa,Kırtasiye,Defter,2,65,Kapıda Ödeme,5,1
+S1045,2026-02-24,Bursa,Kitap,Kişisel Gelişim,1,215,Kapıda Ödeme,3,4
+S1046,2026-02-25,İstanbul,Elektronik,Powerbank,4,705,,4,6
+S1047,2026-02-26,Bursa,Ev & Yaşam,Kupa,4,160,Kredi Kartı,5,3
+S1048,2026-02-27,İstanbul,Kırtasiye,Kalem Seti,3,110,Kredi Kartı,3,3
+S1049,2026-02-27,İzmir,Kırtasiye,Kalem Seti,2,125,Kredi Kartı,5,3
+S1050,2026-02-28,Antalya,Elektronik,Klavye,1,1115,Nakit,5,2
+S1051,2026-02-28,Ankara,Kitap,Roman,5,185,Kredi Kartı,3,3
+S1052,2026-03-03,İzmir,Elektronik,Powerbank,1,740,Havale,3,5
+S1053,2026-03-03,İstanbul,Ev & Yaşam,Kupa,1,165,Havale,5,1
+S1054,2026-03-04,İstanbul,Ev & Yaşam,Masa Lambası,2,830,Kredi Kartı,5,5
+S1055,2026-03-07,İstanbul,Elektronik,Powerbank,5,675,Kapıda Ödeme,4,1
+S1056,2026-03-07,İstanbul,Kitap,Roman,2,190,Nakit,3,5
+S1057,2026-03-07,Bursa,Ev & Yaşam,Masa Lambası,2,900,Kapıda Ödeme,4,6
+S1058,2026-03-08,Ankara,Elektronik,Mouse,5,455,Kredi Kartı,5,6
+S1058,2026-03-08,Ankara,Elektronik,Mouse,5,455,Kredi Kartı,5,6
+S1059,2026-03-10,İstanbul,Elektronik,Klavye,4,1245,Kapıda Ödeme,4,6
+S1060,2026-03-13,Antalya,Ev & Yaşam,Masa Lambası,4,860,Kredi Kartı,4,2
+S1061,2026-03-13,İzmir,Kitap,Kişisel Gelişim,2,200,Kredi Kartı,4,4
+S1062,2026-03-15,Bursa,Kırtasiye,Ajanda,1,265,Kapıda Ödeme,2,2
+S1063,2026-03-15,İstanbul,Elektronik,Klavye,4,1285,Kredi Kartı,3,1
+S1064,2026-03-15,İstanbul,Elektronik,Mouse,4,445,Nakit,4,1
+S1065,2026-03-15,İstanbul,Kırtasiye,Ajanda,5,250,Kredi Kartı,3,1
+S1066,2026-03-17,İzmir,Ev & Yaşam,Termos,3,580,Havale,5,3
+S1067,2026-03-20,Antalya,Elektronik,Klavye,1,1320,Havale,5,5
+S1068,2026-03-21,Trabzon,Ev & Yaşam,Masa Lambası,2,895,Havale,5,5
+S1069,2026-03-21,İstanbul,Kitap,Kişisel Gelişim,2,215,Kredi Kartı,2,6
+S1070,2026-03-21,Bursa,Ev & Yaşam,Masa Lambası,1,965,Kapıda Ödeme,5,1
+S1071,2026-03-21,Antalya,Kırtasiye,Ajanda,1,225,Kredi Kartı,4,6
+S1072,2026-03-22,İstanbul,Ev & Yaşam,Masa Lambası,3,880,Kredi Kartı,2,4
+S1073,2026-03-23,İstanbul,Ev & Yaşam,Termos,2,525,Kredi Kartı,3,6
+S1074,2026-03-25,İzmir,Ev & Yaşam,Termos,1,570,Kapıda Ödeme,4,3
+S1075,2026-03-26,Ankara,Kitap,Kişisel Gelişim,1,195,Kredi Kartı,3,3
+S1076,2026-03-27,Antalya,Elektronik,Klavye,3,1255,Kredi Kartı,5,3
+S1077,2026-03-30,İzmir,Kırtasiye,Ajanda,2,270,Kredi Kartı,4,3
+S1078,2026-03-31,Trabzon,Ev & Yaşam,Masa Lambası,4,920,Kredi Kartı,2,1
+S1079,2026-04-02,İzmir,Kitap,Kişisel Gelişim,1,225,Kredi Kartı,4,6
+S1080,2026-04-04,İstanbul,Kırtasiye,Defter,4,60,Kredi Kartı,2,
+S1081,2026-04-05,Antalya,Kırtasiye,Ajanda,1,230,Kapıda Ödeme,2,
+S1082,2026-04-07,İzmir,Elektronik,Klavye,1,1285,Kredi Kartı,4,5
+S1083,2026-04-07,İstanbul,Kitap,Kişisel Gelişim,1,215,Kredi Kartı,5,6
+S1084,2026-04-08,İstanbul,Kırtasiye,Kalem Seti,1,120,Kapıda Ödeme,4,1
+S1085,2026-04-08,Antalya,Elektronik,Powerbank,4,700,Kredi Kartı,4,3
+S1086,2026-04-11,Trabzon,Kırtasiye,Kalem Seti,1,125,Kredi Kartı,5,6
+S1087,2026-04-11,İzmir,Ev & Yaşam,Kupa,2,160,Havale,3,3
+S1088,2026-04-12,Ankara,Kırtasiye,Ajanda,3,260,Kredi Kartı,4,6
+S1089,2026-04-13,İstanbul,Kırtasiye,Kalem Seti,2,110,Kredi Kartı,4,5
+S1090,2026-04-14,Antalya,Elektronik,Kulaklık,2,865,Havale,4,1
+S1091,2026-04-15,Antalya,Elektronik,Powerbank,1,655,Nakit,4,5
+S1092,2026-04-16,Bursa,Ev & Yaşam,Termos,1,515,Nakit,3,5
+S1093,2026-04-16,Antalya,Kitap,Kişisel Gelişim,1,195,Kredi Kartı,4,6
+S1094,2026-04-16,İstanbul,Ev & Yaşam,Kupa,4,155,,4,3
+S1095,2026-04-17,Trabzon,Elektronik,Mouse,2,405,Havale,2,3
+S1096,2026-04-20,Ankara,Kitap,Çocuk Kitabı,5,140,Nakit,,3
+S1097,2026-04-21,Ankara,Kırtasiye,Ajanda,1,255,Kredi Kartı,4,3
+S1098,2026-04-22,Antalya,Elektronik,Kulaklık,2,770,Kredi Kartı,2,5
+S1099,2026-04-25,İzmir,Ev & Yaşam,Masa Lambası,4,910,Kredi Kartı,4,2
+S1100,2026-04-27,İstanbul,Kırtasiye,Ajanda,4,225,Kredi Kartı,3,4
+S1101,2026-04-28,İstanbul,Ev & Yaşam,Masa Lambası,1,925,Kredi Kartı,4,5
+S1102,2026-05-02,İzmir,Elektronik,Mouse,3,430,Havale,2,5
+S1103,2026-05-02,Antalya,Kitap,Kişisel Gelişim,2,200,Havale,3,3
+S1104,2026-05-03,İstanbul,Elektronik,Kulaklık,5,910,Havale,5,
+S1105,2026-05-04,İstanbul,Ev & Yaşam,Masa Lambası,5,880,Havale,5,4
+S1106,2026-05-04,Trabzon,Elektronik,Mouse,2,470,Kredi Kartı,4,2
+S1107,2026-05-05,Ankara,Ev & Yaşam,Kupa,3,135,Kredi Kartı,4,5
+S1108,2026-05-06,Ankara,Elektronik,Mouse,1,420,Kredi Kartı,1,6
+S1109,2026-05-07,Ankara,Kitap,Çocuk Kitabı,2,145,Kredi Kartı,3,6
+S1110,2026-05-08,Trabzon,Elektronik,Kulaklık,4,875,Kredi Kartı,5,4
+S1111,2026-05-09,Antalya,Elektronik,Powerbank,3,750,Kredi Kartı,3,3
+S1112,2026-05-09,İstanbul,Ev & Yaşam,Termos,1,575,Nakit,2,6
+S1113,2026-05-10,İstanbul,Kitap,Roman,1,195,Nakit,2,6
+S1114,2026-05-11,Bursa,Kitap,Kişisel Gelişim,2,230,Kredi Kartı,,6
+S1115,2026-05-12,Bursa,Ev & Yaşam,Masa Lambası,3,910,Kredi Kartı,4,
+S1116,2026-05-12,Trabzon,Elektronik,Mouse,3,415,Kapıda Ödeme,5,1
+S1117,2026-05-13,Trabzon,Kırtasiye,Defter,1,60,Kredi Kartı,4,5
+S1118,2026-05-13,İstanbul,Elektronik,Powerbank,1,655,Kapıda Ödeme,4,5
+S1119,2026-05-14,Bursa,Elektronik,Kulaklık,2,800,Kredi Kartı,4,6
+S1120,2026-05-20,İstanbul,Elektronik,Powerbank,1,750,Kredi Kartı,4,6
+S1121,2026-05-21,Bursa,Ev & Yaşam,Masa Lambası,2,965,Kredi Kartı,3,5
+S1122,2026-05-22,İstanbul,Ev & Yaşam,Masa Lambası,4,915,Havale,5,6
+S1123,2026-05-22,Trabzon,Ev & Yaşam,Masa Lambası,1,955,Nakit,2,2
+S1124,2026-05-25,Antalya,Kırtasiye,Defter,2,60,Kredi Kartı,2,3
+S1125,2026-05-25,Ankara,Elektronik,Kulaklık,5,855,Havale,4,1
+S1126,2026-05-27,İstanbul,Ev & Yaşam,Masa Lambası,4,990,Kredi Kartı,4,3
+S1127,2026-05-29,Ankara,Kitap,Kişisel Gelişim,5,190,Kredi Kartı,4,1
+S1128,2026-05-29,Ankara,Kitap,Roman,4,190,Kapıda Ödeme,,1
+S1129,2026-05-30,Ankara,Elektronik,Klavye,3,1285,Nakit,2,1
+S1130,2026-06-01,Trabzon,Elektronik,Powerbank,1,645,Nakit,,4
+S1131,2026-06-05,Ankara,Ev & Yaşam,Kupa,1,135,Kredi Kartı,4,5
+S1132,2026-06-08,Trabzon,Ev & Yaşam,Kupa,2,160,Kapıda Ödeme,2,6
+S1133,2026-06-08,İstanbul,Ev & Yaşam,Termos,5,515,Kapıda Ödeme,4,5
+S1134,2026-06-13,Bursa,Kitap,Çocuk Kitabı,2,155,Nakit,5,5
+S1135,2026-06-14,Bursa,Elektronik,Powerbank,1,705,Nakit,3,4
+S1136,2026-06-16,İstanbul,Elektronik,Kulaklık,4,765,Kredi Kartı,4,1
+S1137,2026-06-17,İzmir,Elektronik,Powerbank,1,635,Kredi Kartı,3,4
+S1138,2026-06-17,İstanbul,Elektronik,Mouse,1,440,Nakit,5,3
+S1139,2026-06-18,Ankara,Elektronik,Kulaklık,4,775,Kredi Kartı,1,5
+S1140,2026-06-19,İstanbul,Elektronik,Kulaklık,1,805,Kredi Kartı,3,5
+S1141,2026-06-22,Ankara,Elektronik,Kulaklık,5,815,Kapıda Ödeme,3,2
+S1142,2026-06-23,İzmir,Kırtasiye,Ajanda,5,265,Havale,3,2
+S1143,2026-06-23,Bursa,Kırtasiye,Kalem Seti,2,130,Nakit,5,
+S1144,2026-06-23,Ankara,Kırtasiye,Defter,5,60,Kredi Kartı,3,1
+S1145,2026-06-24,Trabzon,Kırtasiye,Defter,3,60,Kredi Kartı,5,5
+S1146,2026-06-24,Bursa,Elektronik,Klavye,2,1300,Kapıda Ödeme,5,2
+S1147,2026-06-25,Bursa,Kırtasiye,Defter,4,65,Kredi Kartı,1,2
+S1148,2026-06-27,Bursa,Kırtasiye,Defter,3,60,Nakit,5,1
+S1149,2026-06-27,Bursa,Elektronik,Klavye,1,1190,Nakit,3,4
+S1150,2026-06-29,Antalya,Kitap,Çocuk Kitabı,4,140,Kredi Kartı,4,6
